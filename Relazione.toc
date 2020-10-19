@@ -1,0 +1,6 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {section}{\numberline {1}Introduzione}{2}{section.1}
+\contentsline {section}{\numberline {2}Esperimenti}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Grafo di Facebook}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Grafo citazioni}{2}{subsection.2.2}
